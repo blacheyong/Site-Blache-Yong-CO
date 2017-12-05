@@ -1,0 +1,21 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# Dependency directory
+node_modules
+
+# Bower components
+bower_components
+
+# Optional npm cache directory
+.npm
+
+# Mac OS Crap
+*.DS_Store
